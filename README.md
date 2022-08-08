@@ -29,9 +29,9 @@
 
 <!-- #### Learning 💡 -->
 
-- 🥰 Front-End Developer.
-- 📚 System Analysis and Development.
-- 📍 Brazil, São Paulo.
+- Frond End Developer.
+- Bachelor's degree in Information Systems.
+- Brazil, São Paulo.
 
 #### Social Networks 👇🏽
 
