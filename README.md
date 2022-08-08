@@ -36,6 +36,6 @@
 #### Social Networks 👇🏽
 
 
-   <a href="https://www.instagram.com/0/alexrelance" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_aablanaak"></a> 
+   <a href="https://www.instagram.com/alexrelance/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=instagram&logoColor=white" target="_aablanaak"></a> 
    <a href="mailto:alexrelance@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-6633cc?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/alexflorido/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
