@@ -40,10 +40,6 @@
       <br></div>
 
 ###
- 
-  ![Snake animation](https://github.com/alexrelance/alexrelance/blob/output/github-contribution-grid-snake.svg)
-
-###
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
