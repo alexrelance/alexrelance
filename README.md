@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34C26&height=170&section=header&text=Paulo%20Henryck&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Full%20Stack%20Developer&descAlignY=45&descAlign=50">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&username=alexrelance" height="150" alt="stats graph"  />
